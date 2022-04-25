@@ -1,1 +1,10 @@
 # Metabolic-resilience-topo-genomics
+
+Cooperative genome plasticity of metabolic acceleration hubs promotes resilience to metabolic stress
+Abstract
+Metabolism plays a central role in evolution, as resource conservation is a selective pressure for fitness and survival. It remains unknown how energy deficit influences specific genome conformations and how it is related to evolutionary adaptations. To study functional and structural relationships in genomic regions with human-specific mutations, we used a framework combining data integration and experimental validation to identify functional nuclear compartments and their transcriptional regulators. Here we show that adipose tissue promotes organismal adaptations through metabolic acceleration hubs and the cooperative regulators PGC1A, YY1 and CTCF. We find evidence of evolutionary adaptations in protein disordered regions, and in the nonrandom chromatin location of metabolic acceleration hubs. These hubs show murine conservation of phenotype and structural relationships, and are affected by diet-induced obesity. Nutritional deprivation leads to nuclear compartments enriched in metabolic acceleration hubs containing lipid cycling genes, which maintain lipid-, mitochondrial-, and pH-homeostasis. In glucose fasting, pH variation, nuclear organization and charge features in disordered regions lead to gel-like PGC1A condensates regulating metabolic acceleration compartments for fasting endurance. Induction of this mechanism by Hv1 proton pump inhibition promotes resilience to metabolic stress. In addition, we observed that metabolic disease polygenic risk hubs share structural relationships and are enriched in metabolic acceleration hubs. In active hubs, the disease associated genes ANGPTL3 and PCSK9 are repressed as part of genome adaptations to fasting including PGC1A and human accelerated regions. Overall, we show that energy deficit can optimize genome function via evolutionary adaptations related to condensate plasticity and genome compartments regulating metabolic endurance. 
+
+
+
+Comment: 
+In this repository we are archiving data and code related to this manuscript
